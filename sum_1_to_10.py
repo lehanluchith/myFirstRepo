@@ -6,3 +6,4 @@ for i in range(1,11):
 print(f'The total is {total}')
 
 print("Hello World!")
+print("SLTC Padukka")
